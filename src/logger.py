@@ -16,6 +16,3 @@ logging.basicConfig(
     
 )
 
-if __name__=="__main__":
-    logging.info(f"logging has started. log file location:{LOG_FILE_PATH}")
-    
